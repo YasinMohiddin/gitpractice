@@ -1,0 +1,5 @@
+master, build 
+slave, worker, nodes
+jenkins always in master slave
+qa server
+prod server
