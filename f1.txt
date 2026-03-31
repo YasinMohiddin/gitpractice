@@ -1,0 +1,11 @@
+docker
+k8s
+jenkins
+ci-cd
+linux
+grafana
+git
+aws
+linux
+terraform
+ansible
